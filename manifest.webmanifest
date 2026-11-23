@@ -1,0 +1,18 @@
+{
+  "name": "FIT10 — Calisthenics",
+  "short_name": "FIT10",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07110d",
+  "theme_color": "#07110d",
+  "description": "10-minute daily bodyweight workout",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
